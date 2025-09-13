@@ -1,0 +1,49 @@
+# 🎉 YOJO - Your Joy Organiser
+
+**Smart Event Planning & Travel Assistant with Complete Item Lists**
+
+YOJO (Your Joy Organiser) is a web-based assistant that helps you **plan events, trips, shopping, and media services**.  
+It provides **ready-to-use item lists, real product prices, and shopping links** to make planning effortless and joyful.  
+
+🌐 Live Demo: [YOJO - Your Joy Organiser](https://yojo-your-joy-organiser.netlify.app/)
+
+---
+
+## ✨ Features
+
+- 🥳 **Event Planning**  
+  Plan birthday parties, weddings, kitty parties, family functions, and corporate events with complete item checklists.
+
+- ✈️ **Travel Essentials**  
+  Organize trips and get travel-ready with curated packing and shopping lists.
+
+- 📸 **Media Services**  
+  Find suggestions for photo and video services to make your event memorable.
+
+- 🛍 **Shopping Integration**  
+  Get real products, prices, and shopping links for everything you need.
+
+- 💡 **Smart Suggestions**  
+  Quick-start templates for common events and trips (e.g., *Birthday party for 6-year-old, ₹4000 budget*).
+
+- 📱 **Modern UI**  
+  Simple, responsive design built with **Vite + React + TailwindCSS**.
+
+---
+
+## 🛠 Tech Stack
+
+- **Frontend:** React + Vite  
+- **Styling:** TailwindCSS  
+- **Deployment:** Netlify  
+- **Language:** TypeScript / JavaScript  
+- **State Management:** (if used, e.g. Context API / Zustand)
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the reposit
+```bash
+git clone https://github.com/harshhita2/YOJO-Your-Joy-Scanner.git
+cd YOJO-Your-Joy-Scanner
